@@ -30,12 +30,4 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-success?style=for-the-badge)
-![Web Development](https://img.shields.io/badge/Web%20Development-0A66C2?style=for-the-badge)
-
----
-
-# 🎯 Current Goals
-
-- ✅ Master Python Programming
-- 🤖 Learn Machine Learning
-- 🧠 Learn
+![Web 
