@@ -1,33 +1,58 @@
-# Hi there 👋, I'm Muhammad Asim
 
-🎓 **BS Artificial Intelligence Student**  
-🤖 **Artificial Intelligence Beginner**  
-🐍 **Learning Python Programming**  
-🌐 **Web Developer**  
-💻 Passionate about Artificial Intelligence, Programming, and Modern Web Technologies.  
-🚀 Always learning new skills and building practical projects.
+👋 Hi there, I'm Muhammad Asim
+🎓 BS Artificial Intelligence Student
+🤖 AI Beginner | Python Learner | Web Development Enthusiast
+💻 Passionate about Artificial Intelligence, Programming, and Software Development.
+🚀 Learning every day to build intelligent solutions for real-world problems.
+🚀 About Me
+I am Muhammad Asim, a BS Artificial Intelligence student with a strong passion for technology and innovation. I am currently learning Python programming, Web Development, and the fundamentals of Artificial Intelligence.
+I enjoy solving real-world problems through code and continuously improving my programming skills. My goal is to become a skilled AI Engineer and contribute to impactful AI-powered applications.
+🌱 Currently Learning:
+Python Programming
+Artificial Intelligence
+Machine Learning Fundamentals
+Web Development
+Git & GitHub
+🎯 Goals:
+Build AI Projects
+Create Modern Web Applications
+Contribute to Open Source
+Become a Professional AI Engineer
+🛠️ Skills
+🐍 Python
+🤖 Artificial Intelligence
+🌐 HTML5
+🎨 CSS3
+⚡ JavaScript (Learning)
+🌍 Web Development
+🧠 Problem Solving
+📝 Programming Fundamentals
+🔧 Git
+📂 GitHub
+💻 VS Code
+🖥️ Command Line
+📊 Algorithms
+🗂️ Data Structures (Learning)
+📚 Currently Learning
+🐍 Python Programming
+🤖 Artificial Intelligence
+🧠 Machine Learning
+🌐 Full Stack Web Development
+📦 Git & GitHub
+⚙️ Software Development
+📖 Object-Oriented Programming (OOP)
+🎯 Interests
+Artificial Intelligence
+Machine Learning
+Software Development
+Web Development
+Open Source
+Automation
+Problem Solving
+Technology & Innovation
+📫 Connect With Me
+💼 GitHub: github.com/YourUsername
+📧 Email: your@email.com
+💬 Always open to learning, collaboration, and exciting AI projects.
 
----
 
-# 🚀 About Me
-
-- 🎓 BS Artificial Intelligence Student
-- 🤖 Artificial Intelligence Beginner
-- 🐍 Learning Python Programming
-- 🌐 Web Developer
-- 💡 Passionate about AI, Programming & Software Development
-- 🧠 Love solving real-world programming problems
-- 📚 Exploring Artificial Intelligence, Machine Learning & Deep Learning
-- 🎯 Dream: Become a Professional AI Engineer and Full Stack Web Developer
-
----
-
-# 🛠️ Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-success?style=for-the-badge)
-![Web 
